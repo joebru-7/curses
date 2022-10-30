@@ -1,0 +1,74 @@
+>v0000000                                                             
+v># #p1#00#10p# <                                                     
+>~>:">"-!v>:"<"-!v>:"+"-!v>:"-"-!v>:"."-!v>:","-!v>:"]"-!v>:"["-!v@   
+^Xg   v00_^v-1g00_^v0:g00_^v0:g00_^v 0g00_^vg000~_^      _^ v<v $_^   
+^ 1   >g1+ >00pv   >g1+\0pv>g1-\0pv>g,v  p\<        v!-"]":~<0>"v"v   
+^       <  $   <          <       <   <     <      v_\1p1+: ^^0p58<   
+  ^:+1\<>:13p\v                                    > v                
+  | -g31:<>$01-5                       ^5-10-1$$<                     
+  >00g:0g!|                                                           
+^   p58" "<                                                           
+
+https://amicloud.github.io/fungide/
+https://esolangs.org/wiki/Befunge
+
+
+66 111 33
+
++++++++++++[->++++++>++++++++++>+++<<<]>.>+..>.
+
+https://esolangs.org/wiki/Brainfuck
+https://www.nayuki.io/page/brainfuck-interpreter-javascript
+
+>v
+v># #p00#10# p# "x" #$<
+
+
+
+:1g
+
+
+  12345678 
+> 00g1+00p
+< 00g1-00p
++ 00g:0g1+\0p
+- 00g:0g1-\0p
+. 00g0\g,
+, ~000gp
+
+
+00g:0g1+\0p
+
+
+setup \/
+       '>'42p     >
+[        0>~:"]"-!|
+          ^:+1p 1\<
+
+] '^'42p
+
+   
+00g|
+   
+   
+                 \1+
+: xyp / : xyg - |
+                 \$0
+
+	  ret
+00g:0g!|
+       " "xyp
+      
+	  
+	  
+	  !-gyx:\
+	  
+	  
+	  
+92f4a9dcca5698b8205d1143c4203946
+2b2b2b2b2b2b2b2b2b2b2b5b2d3e2b2b
+2b2b2b2b3e2b2b2b2b2b2b2b2b2b2b3e
+2b2b2b3c3c3c5d3e2e3e2b2e2e3e2e58
++++++++++++[->++
+++++>++++++++++>
++++<<<]>.>+..>.x
